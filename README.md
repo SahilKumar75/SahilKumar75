@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahilKumar75
-- 👀 I’m interested in Python problem sovlving
-- 🌱 I’m currently learning python
+- 👀 I’m interested in C++ problem sovlving
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me sahilkumargreat12@gmail.com
 
