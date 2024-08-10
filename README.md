@@ -1,9 +1,13 @@
 # Hi, I'm Sahil Kumar Singh! 👋
 
 ## 🛠️ Tech Stack
-- **Languages:** Kotlin, Jetpack Compose, Go
-- **Frameworks & Tools:** Android Studio, Jetpack Compose, Firebase
-- **Domains:** Mobile App Development, UI/UX Design, AI Integration
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
 
 ## 📈 GitHub Stats
 <div align="center">
@@ -13,6 +17,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar75&layout=compact&theme=radical)](https://github.com/SahilKumar75)
   
   [![Sahil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=radical)](https://github.com/SahilKumar75)
+  
+  ![Sahil's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilKumar75&theme=react-dark&hide_border=true&area=true)
+  
+  ![Sahil's Trophies](https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=radical&no-frame=true&column=7)
   
 </div>
 
@@ -28,4 +36,4 @@ Actively enhancing proficiency in Android Development, with a particular emphasi
 
 ## 🔗 Connect with Me
 - **Email:** [sahilkumargreat12@gmail.com](mailto:sahilkumargreat12@gmail.com)
-- **LinkedIn:** [Sahil Kumar Singh]((https://www.linkedin.com/in/sahil-kumar-singh-88949a27a/))
+- **LinkedIn:** [Sahil Kumar Singh](https://www.linkedin.com/in/sahil-kumar-singh/)
