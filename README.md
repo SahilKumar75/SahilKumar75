@@ -9,10 +9,10 @@ Aspiring **Android Developer** with a strong foundation in **Kotlin** and **Jetp
 
 ## GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar75&show_icons=true&theme=react" alt="Sahil's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=react" alt="Sahil's GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKumar75&theme=react" alt="Sahil's GitHub Summary" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=react&no-frame=true&column=4" alt="Sahil's Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar75&show_icons=true&theme=react" alt="Sahil's GitHub Stats" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=react" alt="Sahil's GitHub Streak" style="margin-bottom: 20px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKumar75&theme=react" alt="Sahil's GitHub Summary" style="margin-bottom: 20px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=react&no-frame=true&column=4" alt="Sahil's Trophies" style="margin-bottom: 20px;" />
 </div>
 
 ## Recent Projects
@@ -24,4 +24,4 @@ Aspiring **Android Developer** with a strong foundation in **Kotlin** and **Jetp
 
 ## Get in Touch
 - **Email:** [sahilkumargreat12@gmail.com](mailto:sahilkumargreat12@gmail.com)
-- **LinkedIn:** [Sahil Kumar Singh](https://www.linkedin.com/in/sahil-kumar-singh/)
+- **LinkedIn:** [Sahil Kumar Singh](https://www.linkedin.com/in/sahil-kumar-singh-88949a27a/)
