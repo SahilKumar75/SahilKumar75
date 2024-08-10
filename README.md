@@ -18,8 +18,6 @@
   
   [![Sahil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=radical)](https://github.com/SahilKumar75)
   
-  ![Sahil's Activity Graph](https://activity-graph.herokuapp.com/graph?username=SahilKumar75&theme=react-dark&hide_border=true&area=true)
-  
   ![Sahil's Trophies](https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=radical&no-frame=true&column=7)
   
 </div>
