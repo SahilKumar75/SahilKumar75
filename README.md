@@ -8,12 +8,34 @@ Aspiring **Android Developer** with a strong foundation in **Kotlin** and **Jetp
 - **Domains:** Mobile App Development, UI/UX Design, AI Integration
 
 ## GitHub Analytics
+
+### Can You Guess My Top Languages?
+Each language below is represented by a color. Click on the chart to find out which language dominates my codebase!
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar75&show_icons=true&theme=react" alt="Sahil's GitHub Stats" style="margin-bottom: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=react" alt="Sahil's GitHub Streak" style="margin-bottom: 20px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKumar75&theme=react" alt="Sahil's GitHub Summary" style="margin-bottom: 20px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=react&no-frame=true&column=4" alt="Sahil's Trophies" style="margin-bottom: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar75&layout=compact&theme=react" alt="Sahil's Language Stats" style="margin-bottom: 20px;" />
+  <a href="https://github.com/SahilKumar75">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar75&layout=compact&theme=gruvbox_duo" alt="Sahil's Language Stats" style="margin-bottom: 20px;" />
+  </a>
+</div>
+
+### Here's a Breakdown of My GitHub Activity
+Think you know what I’ve been working on? Explore the stats below to see the full picture!
+
+<div align="center">
+  <a href="https://github.com/SahilKumar75">
+    <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar75&show_icons=true&theme=highcontrast" alt="Sahil's GitHub Stats" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=highcontrast" alt="Sahil's GitHub Streak" style="margin-bottom: 20px;" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKumar75&theme=gruvbox_duo" alt="Sahil's GitHub Summary" style="margin-bottom: 20px;" />
+  </a>
+</div>
+
+### Achievements Unlocked
+Can you spot the trophies? See how many milestones I've reached in my coding journey!
+
+<div align="center">
+  <a href="https://github.com/SahilKumar75">
+    <img src="https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=monokai&no-frame=true&column=4" alt="Sahil's Trophies" style="margin-bottom: 20px;" />
+  </a>
 </div>
 
 ## Recent Projects
