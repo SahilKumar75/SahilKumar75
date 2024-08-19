@@ -3,38 +3,36 @@
 Aspiring **Android Developer** with a strong foundation in **Kotlin** and **Jetpack Compose**. Currently pursuing a Bachelor of Engineering in Information Technology at the Army Institute of Technology, Pune. I am passionate about building scalable, user-centric mobile applications with a focus on seamless user experience and modern design principles.
 
 ## Technical Skills
-- **Languages:** Kotlin, Go, Java
-- **Frameworks & Tools:** Jetpack Compose, Android Studio, Firebase
-- **Domains:** Mobile App Development, UI/UX Design, AI Integration
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" style="margin-right: 10px;" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</div>
 
 ## GitHub Analytics
 
-### Can You Guess My Top Languages?
-Each language below is represented by a color. Click on the chart to find out which language dominates my codebase!
-
+### Language Breakdown
 <div align="center">
   <a href="https://github.com/SahilKumar75">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar75&layout=compact&theme=gruvbox_duo" alt="Sahil's Language Stats" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SahilKumar75&layout=compact&theme=radical" alt="Sahil's Language Stats" style="margin-bottom: 20px;" />
   </a>
 </div>
 
-### Here's a Breakdown of My GitHub Activity
-Think you know what I’ve been working on? Explore the stats below to see the full picture!
-
+### GitHub Stats
 <div align="center">
   <a href="https://github.com/SahilKumar75">
-    <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar75&show_icons=true&theme=highcontrast" alt="Sahil's GitHub Stats" style="margin-bottom: 20px;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=highcontrast" alt="Sahil's GitHub Streak" style="margin-bottom: 20px;" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilKumar75&theme=gruvbox_duo" alt="Sahil's GitHub Summary" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SahilKumar75&show_icons=true&theme=vision-friendly-dark" alt="Sahil's GitHub Stats" style="margin-bottom: 20px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SahilKumar75&theme=vision-friendly-dark" alt="Sahil's GitHub Streak" style="margin-bottom: 20px;" />
   </a>
 </div>
 
-### Achievements Unlocked
-Can you spot the trophies? See how many milestones I've reached in my coding journey!
-
+### Achievements
 <div align="center">
   <a href="https://github.com/SahilKumar75">
-    <img src="https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=monokai&no-frame=true&column=4" alt="Sahil's Trophies" style="margin-bottom: 20px;" />
+    <img src="https://github-profile-trophy.vercel.app/?username=SahilKumar75&theme=algolia&no-frame=true&column=4" alt="Sahil's Trophies" style="margin-bottom: 20px;" />
   </a>
 </div>
 
