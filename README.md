@@ -1,14 +1,12 @@
-<!-- ====== BANNER ====== -->
-<p align="center">
-  <img src="Group%209.png" alt="Sahil K Singh banner" />
-</p>
+<!-- ====== BANNER (FULL WIDTH) ====== -->
+<img src="Group%209.png" alt="Sahil K Singh banner" width="100%" />
 
 ---
 
 ## Mobile & Cross‑Platform Development
 
 I build mobile applications for Android using **Kotlin**, **Jetpack Compose**, and **Flutter**, with a focus on cross‑platform experiences and smooth performance.  
-UI/UX is a core part of my process: I take ideas from **Figma** wireframes to production‑ready interfaces that are clean, minimal, and easy to use. [web:92]
+UI/UX is a core part of my process: I take ideas from **Figma** wireframes to production‑ready interfaces that are clean, minimal, and easy to use.
 
 Currently pursuing **B.E. Information Technology** at **Army Institute of Technology, Pune**.
 
@@ -51,10 +49,6 @@ Currently pursuing **B.E. Information Technology** at **Army Institute of Techno
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sahil-kumar-singh-88949a27a/">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil%20Kumar%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/SahilKumar75">
-    <img src="https://img.shields.io/badge/GitHub-SahilKumar75-181717?style=flat&logo=github&logoColor=white" height="22" />
   </a>
 
 </div>
