@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="assets/Group-5.jpg" alt="Sahil K Singh banner" />
+  <img src="Group%205.png" alt="Sahil K Singh banner" />
 </p>
 
 ---
