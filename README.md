@@ -1,6 +1,15 @@
- <img src="Group%209.png" alt="Sahil K Singh banner" width="100%" />
-<h2>About Me</h2> <p>You are viewing the portfolio of Sahil Kumar Singh. I build intelligent applications and backend systems. I use Python and Java as my primary languages. I am an Information Technology student at Army Institute of Technology Pune. My current work focuses on artificial intelligence and data engineering.</p>
-<h2>Skills and Tools</h2> <div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="22" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="22" /> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="22" /> </div>
-<h2>AI and Java Projects</h2> <ul> <li>Mario the Plumber: I developed an OpenEnv benchmark for ETL data quality repair. This project evaluates reinforcement learning and LLM agents using Python.</li> <li>Varutri Honeypot: I built an AI honeypot system to engage scammers. I used Java Spring Boot and Llama 3 to extract threat intelligence automatically.</li> <li>Barclays Intervention Engine: I created a predictive risk scoring engine. I used Python FastAPI and XGBoost to detect financial stress signals weeks in advance.</li> <li>Sentri: I engineered a cross platform student companion application. I used Java Spring Boot for the backend and Python for optical character recognition.</li> </ul>
-<h2>Contact</h2> <div align="center"> <a href="mailto:sahilkumargreat12@gmail.com"> <img src="https://img.shields.io/badge/Email-sahilkumargreat12%40gmail.com-red?style=flat&logo=gmail&logoColor=white" height="22" /> </a> <a href="https://www.linkedin.com/in/sahil-kumar-singh-88949a27a/"> <img src="https://img.shields.io/badge/LinkedIn-Sahil%20K%20Singh-0A66C2?style=flat&logo=linkedin&logoColor=white" height="22" /> </a> </div>
+**sahil kumar singh** · IT @ AIT Pune · building agents and backends
+
+currently working on agentic ETL benchmarks and scam interception systems · contributor to [vespa-engine/vespa](https://github.com/vespa-engine/vespa) and [mlflow/mlflow](https://github.com/mlflow/mlflow)
+
+---
+
+**open source**
+
+[vespa-engine/vespa](https://github.com/vespa-engine/vespa) · 6 merged PRs · elasticsearch→vespa query translator, 4 engine bug fixes  
+[mlflow/mlflow](https://github.com/mlflow/mlflow) · [fix ended LiveSpan state mutation](https://github.com/mlflow/mlflow/pull/23152) · tracing/OTel bug fix · merged May 2026
+
+---
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kumar-singh-88949a27a/)
+[![email](https://img.shields.io/badge/email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sahilkumargreat12@gmail.com)
