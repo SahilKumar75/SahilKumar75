@@ -5,13 +5,12 @@ currently working on agentic ETL benchmarks and scam interception systems · bui
 
 **open source**
 
-[mlflow/mlflow](https://github.com/mlflow/mlflow) · 2 merged PRs · AI/ML observability platform
-
+[mlflow/mlflow](https://github.com/mlflow/mlflow) · 3 merged PRs · AI/ML observability platform
 - [#23642](https://github.com/mlflow/mlflow/pull/23642) unwrap JSON-encoded `session.id` / `user.id` span attributes on ingest — fixed trace UI rendering, `search_traces` filtering, and session grouping for OTel spans · May 2026
+- [#23584](https://github.com/mlflow/mlflow/pull/23584) map `gen_ai.conversation.id` to MLflow trace session — added fallback OTel attribute for LLM frameworks (OpenInference, Traceloop) to populate `mlflow.trace.session` when `session.id` is absent; implements [#23524](https://github.com/mlflow/mlflow/issues/23524) · May 2026
 - [#23152](https://github.com/mlflow/mlflow/pull/23152) fix ended `LiveSpan` state mutation — aligned attachment and link behavior with OTel's ended-span no-op semantics; added debug logs and regression tests · May 2026
 
 [vespa-engine/vespa](https://github.com/vespa-engine/vespa) · 6 merged PRs · AI search platform
-
 - [#36365](https://github.com/vespa-engine/vespa/pull/36365) add Elasticsearch→Vespa query translator — translates ES DSL (`match`, `term`, `range`, `bool`) to Vespa query items; implements [#16872](https://github.com/vespa-engine/vespa/issues/16872) · Apr 2026
 - [#36375](https://github.com/vespa-engine/vespa/pull/36375) accept integer `distanceThreshold` in nearestNeighbor YQL — coerces numeric annotation to double for ANN queries
 - [#36377](https://github.com/vespa-engine/vespa/pull/36377) handle empty query stems safely in query-side stemming — drops empty-stem terms in AND/WeakAND contexts without collapsing the whole query
