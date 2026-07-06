@@ -1,22 +1,22 @@
-**sahil kumar singh** · IT @ AIT Pune · building agents, ML tooling and backends  
-currently working on agentic ETL benchmarks and scam interception systems · building [TuneOS](https://github.com/SahilKumar75/TuneOS) — local LLM fine-tuning and dataset toolchain (LoRA/QLoRA) · contributor to [vespa-engine/vespa](https://github.com/vespa-engine/vespa) and [mlflow/mlflow](https://github.com/mlflow/mlflow)
+**sahil kumar singh** · IT @ AIT Pune · agents, ML tooling, backends  
+building [TuneOS](https://github.com/SahilKumar75/TuneOS): a local LLM fine tuning and dataset toolchain (LoRA/QLoRA). contributor to [mlflow/mlflow](https://github.com/mlflow/mlflow) and [vespa-engine/vespa](https://github.com/vespa-engine/vespa).
 
 ---
 
 **open source**
 
-[mlflow/mlflow](https://github.com/mlflow/mlflow) · 3 merged PRs · AI/ML observability platform
-- [#23642](https://github.com/mlflow/mlflow/pull/23642) unwrap JSON-encoded `session.id` / `user.id` span attributes on ingest — fixed trace UI rendering, `search_traces` filtering, and session grouping for OTel spans · May 2026
-- [#23584](https://github.com/mlflow/mlflow/pull/23584) map `gen_ai.conversation.id` to MLflow trace session — added fallback OTel attribute for LLM frameworks (OpenInference, Traceloop) to populate `mlflow.trace.session` when `session.id` is absent; implements [#23524](https://github.com/mlflow/mlflow/issues/23524) · May 2026
-- [#23152](https://github.com/mlflow/mlflow/pull/23152) fix ended `LiveSpan` state mutation — aligned attachment and link behavior with OTel's ended-span no-op semantics; added debug logs and regression tests · May 2026
+[mlflow/mlflow](https://github.com/mlflow/mlflow) · 3 merged PRs · ML observability
+- [#23642](https://github.com/mlflow/mlflow/pull/23642) unwrap JSON encoded `session.id` / `user.id` span attributes on ingest. fixes trace UI, `search_traces` filtering, and session grouping for OTel spans.
+- [#23584](https://github.com/mlflow/mlflow/pull/23584) map `gen_ai.conversation.id` to the MLflow trace session as a fallback OTel attribute (OpenInference, Traceloop) when `session.id` is absent.
+- [#23152](https://github.com/mlflow/mlflow/pull/23152) stop state mutation on ended `LiveSpan`s. matches OTel no op semantics for attach and link, with regression tests.
 
-[vespa-engine/vespa](https://github.com/vespa-engine/vespa) · 6 merged PRs · AI search platform
-- [#36365](https://github.com/vespa-engine/vespa/pull/36365) add Elasticsearch→Vespa query translator — translates ES DSL (`match`, `term`, `range`, `bool`) to Vespa query items; implements [#16872](https://github.com/vespa-engine/vespa/issues/16872) · Apr 2026
-- [#36375](https://github.com/vespa-engine/vespa/pull/36375) accept integer `distanceThreshold` in nearestNeighbor YQL — coerces numeric annotation to double for ANN queries
-- [#36377](https://github.com/vespa-engine/vespa/pull/36377) handle empty query stems safely in query-side stemming — drops empty-stem terms in AND/WeakAND contexts without collapsing the whole query
-- [#36380](https://github.com/vespa-engine/vespa/pull/36380) expose custom annotations on compound query items (`and`, `or`, `not`, `rank`, `weakAnd`) — previously only leaf items supported annotations
-- [#36384](https://github.com/vespa-engine/vespa/pull/36384) allow `tensor<float>` input assignment to `tensor<bfloat16>` attributes — relaxes schema validation when dimensions match
-- [#36385](https://github.com/vespa-engine/vespa/pull/36385) handle hex tensor decoding across compatible value types — fixes out-of-bounds error when feeding float-encoded hex to bfloat16 fields
+[vespa-engine/vespa](https://github.com/vespa-engine/vespa) · 6 merged PRs · AI search
+- [#36365](https://github.com/vespa-engine/vespa/pull/36365) Elasticsearch to Vespa query translator for `match`, `term`, `range`, `bool` DSL.
+- [#36375](https://github.com/vespa-engine/vespa/pull/36375) accept integer `distanceThreshold` in nearestNeighbor YQL by coercing to double.
+- [#36377](https://github.com/vespa-engine/vespa/pull/36377) drop empty stem terms safely in query side stemming without collapsing the query.
+- [#36380](https://github.com/vespa-engine/vespa/pull/36380) expose custom annotations on compound query items (`and`, `or`, `not`, `rank`, `weakAnd`).
+- [#36384](https://github.com/vespa-engine/vespa/pull/36384) allow `tensor<float>` input assignment to `tensor<bfloat16>` attributes when dimensions match.
+- [#36385](https://github.com/vespa-engine/vespa/pull/36385) fix hex tensor decoding across compatible value types.
 
 ---
 
