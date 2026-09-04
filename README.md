@@ -1,5 +1,5 @@
 **sahil kumar singh** · IT @ AIT Pune · agents, ML tooling, backends  
-building [TuneOS](https://github.com/SahilKumar75/TuneOS): a local LLM fine tuning and dataset toolchain (LoRA/QLoRA). contributor to [mlflow/mlflow](https://github.com/mlflow/mlflow) and [vespa-engine/vespa](https://github.com/vespa-engine/vespa).
+building [TuneOS](https://github.com/SahilKumar75/TuneOS): a local LLM fine tuning and dataset toolchain (LoRA/QLoRA). contributor to [mlflow/mlflow](https://github.com/mlflow/mlflow), [vespa-engine/vespa](https://github.com/vespa-engine/vespa), and [kubeflow/sdk](https://github.com/kubeflow/sdk).
 
 ---
 
@@ -17,6 +17,11 @@ building [TuneOS](https://github.com/SahilKumar75/TuneOS): a local LLM fine tuni
 - [#36380](https://github.com/vespa-engine/vespa/pull/36380) expose custom annotations on compound query items (`and`, `or`, `not`, `rank`, `weakAnd`).
 - [#36384](https://github.com/vespa-engine/vespa/pull/36384) allow `tensor<float>` input assignment to `tensor<bfloat16>` attributes when dimensions match.
 - [#36385](https://github.com/vespa-engine/vespa/pull/36385) fix hex tensor decoding across compatible value types.
+
+[kubeflow/sdk](https://github.com/kubeflow/sdk) · 3 merged PRs · ML platform reliability
+- [#562](https://github.com/kubeflow/sdk/pull/562) don't report Trainer job status as Complete when all container statuses are Unknown.
+- [#564](https://github.com/kubeflow/sdk/pull/564) validate `HuggingFaceModelInitializer` storage_uri has a repo path.
+- [#575](https://github.com/kubeflow/sdk/pull/575) validate HuggingFace storage_uri has both user and repo.
 
 ---
 
