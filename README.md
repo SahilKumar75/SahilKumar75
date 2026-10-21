@@ -1,4 +1,4 @@
-**sahil kumar singh** · IT @ AIT Pune · AI agents, ML tooling, backends working on a research paper on AI safety.
+**sahil kumar singh** · IT @ AIT Pune · AI agents and ML tooling. Working on a research paper on AI safety.
 
 ---
 
